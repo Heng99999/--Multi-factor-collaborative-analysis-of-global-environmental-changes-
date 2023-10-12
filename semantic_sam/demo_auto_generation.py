@@ -2,7 +2,7 @@
 # Semantic-SAM: Segment and Recognize Anything at Any Granularity
 # Copyright (c) 2023 Microsoft
 # Licensed under The MIT License [see LICENSE for details]
-# Written by Hao Zhang (hzhangcx@connect.ust.hk)
+# Written by Heng
 # --------------------------------------------------------
 
 
